@@ -12,7 +12,6 @@
 				</div>
 			</div>
 			<div class=" col-xs-12 col-md-6 bg-index">
-				Juan
 			</div>
 		</div>
 	</div>

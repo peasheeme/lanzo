@@ -103,6 +103,18 @@
 	<script src="assets/js/jquery.fitvids.js"></script>
 	<!-- Custom scripts -->
 	<script src="assets/js/custom.js"></script>
+	<script>
+		$(document).ready(function($){
+			var path = window.location.pathname.split("/").pop();
+
+			if(path == ""){
+				path = "index.php";
+			}
+
+			var target = $('nav a[href = "'+path+'"]');
+			target.addClass('active');
+		})
+	</script>
 
 </body>
 </html>
