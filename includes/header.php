@@ -59,7 +59,7 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="custom-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right ">
-						<li ><a href="index.php ">Inicio</a></li>
+						<li ><a href="index.php">Inicio</a></li>
 						<li><a href="nosotros.php">Nosotros </a></li>
 						<li><a href="servicios.php">Servicios</a></li>
 						<li><a href="faq.php">Preguntas frecuentes</a></li>
