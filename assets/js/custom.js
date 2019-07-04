@@ -1,4 +1,54 @@
 (function($){
+	/* ---------------------------------------------- /*
+	 * active de las pestañas
+	/* ---------------------------------------------- */
+
+	$(document).ready(function($){
+		var path = window.location.pathname.split("/").pop();
+
+		if(path == ''){
+			path = "index.php";
+		}
+
+		var target = $('nav a[href="'+path+'"]');
+		target.addClass('active');
+	});
+
+	/* ---------------------------------------------- /*
+	 * tabs mdbootstrap
+	/* ---------------------------------------------- */
+
+	$('#myTab a').on('click', function (e) {
+		e.preventDefault()
+		$(this).tab('show')
+	});
+
+	/* ---------------------------------------------- /*
+	 * acordeón
+	/* ---------------------------------------------- */
+	$('.acordeon').on('click', '.acordeon-titulo', function(){
+		var t = $(this);
+		var tp = t.next();
+		var p = t.parents().siblings().find('.acordeon-contenido');
+
+		tp.slideToggle();
+		p.slideUp();
+	});
+
+	/* ---------------------------------------------- /*
+	 * Tabs
+	/* ---------------------------------------------- */
+	var linksParent = $('.tabs-links');
+	var links = linksParent.find('a');
+	var items = $('.tabs-contents-item');
+	links.eq(0).add(items.eq(0)).addClass('active-faq');
+	linksParent.on('click', 'a', function(){
+		var t = $(this);
+		var i = t.index();
+		t.add(items.eq(i)).addClass('active-faq').siblings().removeClass('active-faq');
+	});
+
+
 
 	/* ---------------------------------------------- /*
 	 * Preloader

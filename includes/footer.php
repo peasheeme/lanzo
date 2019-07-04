@@ -85,6 +85,8 @@
 	<script src="assets/js/jquery-1.11.0.min.js"></script>
 	<!-- Bootstrap JS -->
 	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+	<!-- MDB core JavaScript -->
+	<script type="text/javascript" src="assets/js/mdb.min.js"></script>
 	<!-- Background slider -->
 	<script src="assets/js/jquery.backstretch.min.js"></script>
 	<!-- OwlCarousel -->
@@ -101,20 +103,9 @@
 	<script src="assets/js/wow.min.js"></script>
 	<!-- Resp. video -->
 	<script src="assets/js/jquery.fitvids.js"></script>
+	
 	<!-- Custom scripts -->
 	<script src="assets/js/custom.js"></script>
-	<script>
-		$(document).ready(function($){
-			var path = window.location.pathname.split("/").pop();
-
-			if(path == ''){
-				path = "index.php";
-			}
-
-			var target = $('nav a[href="'+path+'"]');
-			target.addClass('active');
-		});
-	</script>
 
 </body>
 </html>

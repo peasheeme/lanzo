@@ -534,7 +534,7 @@ a,
 	margin-right: 10px;
 	line-height: 1em;
 }
-.red {
+.rojo {
 	color: #bd2e30;
 }
 
@@ -1069,6 +1069,60 @@ h3.footer {
 	color: #999999;
 }
 
+/* ---------------------------------------------- /*
+ * Acordeón
+/* ---------------------------------------------- */
+.body-faq{
+	background: #fafafa;
+}
+
+.tabs-links{
+	display: grid;
+}
+.tabs-links a{
+	display: block;
+	text-decoration: none;
+	background: white;
+	text-align: center;
+	padding: 20px 0;
+
+}
+.tabs-links a:focus{
+	outline: none;
+}
+.tabs-contents-item{
+	display: none;
+	background: white;
+	padding: 1.5em;
+}
+.tabs-contents-item.active-faq{
+	display: block;
+	
+}
+.active-faq{
+	z-index: 10;
+	color: red;
+	-webkit-box-shadow: 10px 10px 5px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 11px 17px -11px rgba(0,0,0,0.75);
+	box-shadow: 10px 11px 17px -11px rgba(0,0,0,0.75);
+}
+
+.acordeon .acordeon-titulo{
+	background: white;
+	color: black;
+	padding: 0 1em;
+	line-height: 2.5;
+	border-bottom: 1px solid #D8E1E4;
+	font-weight: bold;
+	font-size: 0.8em;
+	cursor: pointer;
+}
+
+.acordeon .acordeon-contenido{
+	padding: 0 2em;
+	font-size: 0.8em;
+	display:none;
+}
 
 
 /* ---------------------------------------------- /*
@@ -1190,7 +1244,7 @@ h3.footer {
 h2.verde {
 	color: white;
 }
-.white {
+.blanco {
 	color: white;
 }
 p.automatizacion {

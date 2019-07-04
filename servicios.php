@@ -6,7 +6,7 @@
 					<div class="col-md-10">
 						<div class=" wow bounceInDown text-left">
 							<h2 class="mt-50">Servicios</h2>
-							<p class="white mt-20">Realizamos estudios e investigaciónes sobre conceptos contemplados por las normas de información financieras que son sujetos de Valuación y producen Utilidades, Beneficios Financieros, Administrativos y Fiscales.</p>
+							<p class="blanco mt-20">Realizamos estudios e investigaciónes sobre conceptos contemplados por las normas de información financieras que son sujetos de Valuación y producen Utilidades, Beneficios Financieros, Administrativos y Fiscales.</p>
 							<a href="contacto.php"><button class="botones">Contáctanos</button></a>
 						</div>
 						<div class="col-md-2  "></div>

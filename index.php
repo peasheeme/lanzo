@@ -65,9 +65,9 @@
 
 									<div class="col-xs-12 col-md-12 sliderHome2">
 										<h2 class="verde">Protege tu marca</h2>
-										<h3 class="white">¿Porqué es importante registrar tu marca?</h3>
+										<h3 class="blanco">¿Porqué es importante registrar tu marca?</h3>
 
-										<p class="white"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aut nobis cumque, laudantium excepturi sed? Tempore dignissimos neque deserunt fugiat sequi magnam commodi voluptatem debitis recusandae. Qui mollitia aperiam rem. </p>
+										<p class="blanco"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aut nobis cumque, laudantium excepturi sed? Tempore dignissimos neque deserunt fugiat sequi magnam commodi voluptatem debitis recusandae. Qui mollitia aperiam rem. </p>
 
 									</div>
 
@@ -81,8 +81,8 @@
 
 									<div class="col-xs-12 col-md-12 sliderHome2">
 										<h2 class="verde">Comodidad</h2>
-										<h3 class="white">Controla todo desde tu dispositivo Móvil.</h3>
-										<p class="white">¡Tu casa en tu dispositivo móvil! Así de sencillo, nunca fue tan simple tener todos los beneficios en un solo lugar. </p>
+										<h3 class="blanco">Controla todo desde tu dispositivo Móvil.</h3>
+										<p class="blanco">¡Tu casa en tu dispositivo móvil! Así de sencillo, nunca fue tan simple tener todos los beneficios en un solo lugar. </p>
 
 									</div>
 
@@ -130,7 +130,7 @@
 
 	<div class="container">
 
-		<h2 class="red">Ofrecemos servicios personalizados <br> de acuerdo a tus necesidades</h2> <br>
+		<h2 class="rojo">Ofrecemos servicios personalizados <br> de acuerdo a tus necesidades</h2> <br>
 
 
 		<div class="row">

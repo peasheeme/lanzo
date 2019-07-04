@@ -6,7 +6,7 @@
 					<div class="col-md-10">
 						<div class=" wow bounceInDown text-left">
 							<h2 class="mt-50">Nosotros</h2>
-							<p class="white mt-20">
+							<p class="blanco mt-20">
 									
 									Brindamos el servicio legal de  protección de todos los activos de Propiedad Intelectual de nuestros clientes.</p>
 							<a href="contacto.php"><button class="botones">Contáctanos</button></a>
@@ -87,7 +87,7 @@
 		<div class="container">
 			<div class="row  text-center">
 					<div class="col-xs-12 text-center">
-					<h2 class="red  text-center">Nuestro Equipo</h2> <br><br>
+					<h2 class="rojo  text-center">Nuestro Equipo</h2> <br><br>
 				</div>
 				</div><!-- container--->
 			<div class="row">
