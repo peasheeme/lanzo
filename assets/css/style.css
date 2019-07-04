@@ -22,7 +22,17 @@ a:hover {
 	text-decoration-line: none;
 }
 
+#faq-title{
+	padding: 50px 0;
+}
 
+#faq-title h3{
+	font-size: 1.2em;
+}
+
+#faq-content{
+	padding-bottom: 50px;
+}
 
 /* ---------------------------------------------- /*
  * Typography
@@ -1085,6 +1095,7 @@ h3.footer {
 	background: white;
 	text-align: center;
 	padding: 20px 0;
+	color: black;
 
 }
 .tabs-links a:focus{

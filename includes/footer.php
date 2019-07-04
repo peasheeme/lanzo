@@ -47,9 +47,9 @@
 								<a class="hidden-sm-down" href="#">
 							      <img  src="assets/images/icons/ubicacion.png" alt="mail">
 								  Lázaro Garza Ayala 105  
-								  <span style="padding-left:55px"> Pte L-18  C.P. 66260</span> <br>
-								  <span style="padding-left:55px">San Pedro Garza García  </span>  <br>
-								  <span style="padding-left:55px">Nuevo León México.</span> <br>
+								  <span> Pte L-18  C.P. 66260</span> <br>
+								  <span>San Pedro Garza García  </span>  <br>
+								  <span>Nuevo León México.</span> <br>
 								</a>
 								
 							    <a class="hidden-md-up" href="#">
