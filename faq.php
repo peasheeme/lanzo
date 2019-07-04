@@ -202,7 +202,7 @@
 
 					<div class="tabs-contents-item">
 						<!--Tab 2-->
-						<h1 style="color:black;"><img src="assets/images/faq2.png" width="35" alt=""> Patentes</h1>
+						<h3 style="color:black;"><img src="assets/images/faq2.png" width="35" alt=""> Patentes</h3>
 						<h6 style="color:black;">Preguntas frecuentes y sus respuestas</h6>
 						<div class="acordeon">
 							<div class="acordeon-contenedor">
@@ -405,7 +405,7 @@
 					<div class="tabs-contents-item">
 						<!--Tab 3-->
 
-						<h1 style="color:black;"><img src="assets/images/faq3.png" width="35" alt=""> Denominación de origen</h1>
+						<h3 style="color:black;"><img src="assets/images/faq3.png" width="35" alt=""> Denominación de origen</h3>
 						<h6 style="color:black;">Preguntas frecuentes y sus respuestas</h6>
 						<div class="acordeon">
 							<div class="acordeon-contenedor">
@@ -462,7 +462,7 @@
 
 					<div class="tabs-contents-item ">
 						<!--Tab 4-->
-						<h1 style="color:black;"><img src="assets/images/faq4.png" width="35" alt=""> Derechos de autor</h1>
+						<h3 style="color:black;"><img src="assets/images/faq4.png" width="35" alt=""> Derechos de autor</h3>
 						<h6 style="color:black;">Preguntas frecuentes y sus respuestas</h6>
 						<div class="acordeon">
 							<div class="acordeon-contenedor">
@@ -635,7 +635,7 @@
 
 					<div class="tabs-contents-item">
 						<!--Tab 5-->
-						<h1 style="color:black;"><img src="assets/images/faq5.png" width="35" alt=""> Secretos Industriales</h1>
+						<h3 style="color:black;"><img src="assets/images/faq5.png" width="35" alt=""> Secretos Industriales</h3>
 						<h6 style="color:black;">Preguntas frecuentes y sus respuestas</h6>
 						<div class="acordeon">
 							<div class="acordeon-contenedor">
